@@ -167,9 +167,10 @@ kramdown:
       start_line: 1
 
 collections:
-  tabs:
+  projects:
     output: true
     sort_by: order
+    permalink: /projects/:DatascienceandMLProjects/
 
 defaults:
   - scope:
