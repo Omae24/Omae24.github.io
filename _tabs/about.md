@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-Hi😊, 
+Hi, 
 
 I'm Deborah Omae. Welcome to my page.
 
