@@ -4,6 +4,7 @@ date: 2025-09-16
 layout: post
 tags: [data wrangling]
 categories: [Data analysis, data science]
+---
 
 #thumbnail: /assets/images/projects/web-scraping-thumb.png
 summary: "A Google Colab project where I scraped data from a website, cleaned it, analyzed it, and generated insights."
