@@ -16,7 +16,7 @@ show_on_home: true
 This project focuses on web scraping using Python in Google Colab.  
 I extracted data from a website, cleaned it, organized it into a structured format, and analyzed it for insights.
 
-## Tools Used
+##Tools Used
 - Python  
 - Google Colab  
 - BeautifulSoup  
@@ -30,6 +30,6 @@ I extracted data from a website, cleaned it, organized it into a structured form
 - How to store structured data in a pandas data frame 
 - Data cleaning and analysis  
 
-## Project Report (PDF)
-You can download the full project report here:
-[📄 Download Report](/assets/files/Deborah_Kwamboka_Assignment1.pdf)
+
+#You can download the full project report here:
+#[📄 Download Report](/assets/files/Deborah_Kwamboka_Assignment1.pdf)
