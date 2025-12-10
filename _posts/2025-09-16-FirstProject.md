@@ -5,8 +5,6 @@ date: 2025-09-16
 tags: [data wrangling]
 categories: [Data analysis, data science]
 summary: "A Google Colab project where I scraped data from a website, cleaned it, analyzed it, and generated insights."
-
-
 ---
 ## Overview
 This project focuses on web scraping using Python in Google Colab.  
@@ -27,5 +25,3 @@ I extracted data from a website, cleaned it, organized it into a structured form
 - Data cleaning and analysis  
 
 
-#You can download the full project report here:
-#[📄 Download Report](/assets/files/Deborah_Kwamboka_Assignment1.pdf)
