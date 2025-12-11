@@ -25,5 +25,6 @@ I extracted data from a website, cleaned it, organized it into a structured form
 - Data cleaning and analysis  
 
 ## Download Report
-You can dpwnload full report here:
+You can download full report here:
+
 [📄 Download PDF Report](assets/files/Deborah_Kwamboka_Assignment1.pdf)
