@@ -27,4 +27,4 @@ I extracted data from a website, cleaned it, organized it into a structured form
 ## Download Report
 You can download full report here:
 
-[📄 Download PDF Report](assets/files/Deborah_Kwamboka_Assignment1.pdf)
+[📄 Download PDF Report](/assets/files/Deborah_Kwamboka_Assignment1.pdf)
