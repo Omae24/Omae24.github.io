@@ -3,7 +3,7 @@ layout: post
 title: "Natural Language Processing with Transformers"
 date: 2025-11-30
 tags: [NLP, Transformers]
-categories: [Dep learning, Artificial Neural Networks, Natural Language Processing]
+categories: [Deep learning, Artificial Neural Networks, Natural Language Processing]
 ---
 ## Overview
 This project involved implementing my understanding of Natural Language Processing. NLP focuses on enabling computers to understand, interpret and generate human language in ways that are both meaningful and useful. It has two subfields. Natural Language Understanding (NLU) which focuses on semantic analysis or determining the intended meaning of text and Natural Language Generation (NLG) which focuses on generating meaningful text.
