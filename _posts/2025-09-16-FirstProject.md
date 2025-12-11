@@ -24,8 +24,3 @@ I extracted data from a website, cleaned it, organized it into a structured form
 - How to store structured data in a pandas data frame 
 - Data cleaning and analysis  
 
-## Download Report
-
-You can download the full project report here:
-
-[📄 Download PDF Report](assets/files/Deborah_Kwamboka_Assignment1.pdf)
