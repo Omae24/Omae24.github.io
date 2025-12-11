@@ -1,0 +1,26 @@
+---
+layout: post
+title: "MLOPs"
+date: 2025-11-20
+tags: [MLOPs]
+categories: [Machine learning]
+
+## Overview
+In this project, I built an end-to-end machine learning workflow to predict housing prices using the California Housing dataset. The focus was on applying key concepts covered in class: preprocessing, cross-validation, hyperparameter tuning, pipeline construction, and model deployment.
+
+The California Housing dataset is a well-known regression dataset that contains information collected from the 1990 California census. It is available directly through scikit-learn. 
+
+## Objectives
+- Load the dataset using fetch_california_housing.
+- Apply preprocessing using ColumnTransformer 
+- Split the data into training and test sets (80/20 split).
+- Define an evaluation metric: R² Score.
+- Use a KNeighborsRegressor.
+- Apply GridSearchCV to tune the following hyperparameters: n_neighbors: [3, 5, 7, 9] weights: ['uniform', 'distance'] p: [1, 2]
+- Use 5-fold cross-validation.
+- Save the trained pipeline using pickle or joblib.
+
+## Download Report
+You can download the full report here:
+
+[📄 Download PDF Report](/assets/files/Deborah kwamboka_assignment 9.pdf)

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Classification models"
+date: 2025-11-07
+tags: [classification models]
+categories: [Machine learning, Machine learning models]
+---
+## Overview
+This project helped me apply my understanding of supervised machine learning classification models by building and evaluating various models. I used the Wine dataset from scikit-learn. The goal was to explore and visualize the data, and train six different models: Logistic Regression, Decision Tree, Random Forest, k-Nearest Neighbors (KNN), Naive Bayes and, Support Vector Machine (SVM). The goal was to compare their performance using standard evaluation metrics and confusion matrices, and to interpret which model works best and why.
+It helped me understand not just how to train models, but how to assess and compare their performance on the same dataset under similar conditions.
+
+## Key techniques
+- Data Exploration (EDA); understanding feature relationships and class distributions.
+- Data Preprocessing; handling missing values (if any), scaling features, splitting into training and test sets.
+- Model Training; Logistic Regression, Decision Tree, Random Forest, k-Nearest Neighbors, Naive Bayes, Support Vector Machine.
+- Model Evaluation; Accuracy, Precision, Recall, F1-score, Confusion Matrices.
+- Comparison of Model Performance; selecting the best-performing model.
+- Visualization; plots for confusion matrices and other analysis.
+
+## Download Report
+You can download the full report here:
+
+[📄 Download PDF Report](/assets/files/Deborah kwamboka_assignment 8.pdf)
