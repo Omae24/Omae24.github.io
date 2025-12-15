@@ -12,7 +12,7 @@ The California Housing dataset is a well-known regression dataset that contains 
 
 ## Objectives
 - Load the dataset using fetch_california_housing.
-- Apply preprocessing using ColumnTransformer 
+- Apply preprocessing using ColumnTransformer
 - Split the data into training and test sets (80/20 split).
 - Define an evaluation metric: R² Score.
 - Use a KNeighborsRegressor.
